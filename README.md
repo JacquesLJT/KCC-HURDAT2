@@ -104,7 +104,7 @@ git clone <repository-url>
 cd KCC-HURDAT2
 ```
 
-**Note:** Ensure there's a .env file in the root of /frontend with ```API_BASE_URL="http://backend:8080"``` as the only item
+**Important:** Ensure there's a .env file in the root of /frontend with ```API_BASE_URL="http://backend:8080"``` as the only item
 
 ### 2. Start the application
 
